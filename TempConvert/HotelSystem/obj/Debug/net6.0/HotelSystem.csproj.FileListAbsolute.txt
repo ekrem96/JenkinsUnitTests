@@ -1,0 +1,12 @@
+C:\Users\therb\source\repos\TempConvert\HotelSystem\bin\Debug\net6.0\HotelSystem.deps.json
+C:\Users\therb\source\repos\TempConvert\HotelSystem\bin\Debug\net6.0\HotelSystem.dll
+C:\Users\therb\source\repos\TempConvert\HotelSystem\bin\Debug\net6.0\HotelSystem.pdb
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.csproj.AssemblyReference.cache
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.AssemblyInfoInputs.cache
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.AssemblyInfo.cs
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.dll
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\refint\HotelSystem.dll
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\HotelSystem.pdb
+C:\Users\therb\source\repos\TempConvert\HotelSystem\obj\Debug\net6.0\ref\HotelSystem.dll
